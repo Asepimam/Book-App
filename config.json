@@ -1,0 +1,11 @@
+{
+    "openai_key": "",
+    "modules": [
+        "Auth/login",
+        "Auth/register",
+        "Auth/logout",
+        "Produk/books",
+        "Produk/books_detail",
+        "Produk/book_edit_add"
+    ]
+}
